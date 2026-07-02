@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "mariama@luxebag.com",
+      "password": "1234",
+      "name": "Mariama Baldé"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "title": "Sac Cabas Cuir Noir",
+      "price": 189.99,
+      "category": "handbags",
+      "description": "Sac cabas en cuir véritable noir, spacieux et élégant. Parfait pour le quotidien.",
+      "image": "/images/sac1.jpg",
+      "rating": { "rate": 4.8, "count": 124 }
+    },
+    {
+      "id": 102,
+      "title": "Mini Bag Beige Luxe",
+      "price": 245.00,
+      "category": "handbags",
+      "description": "Mini sac tendance en cuir beige avec chaîne dorée. Edition limitée.",
+      "image": "/images/sac2.jpg",
+      "rating": { "rate": 4.9, "count": 89 }
+    },
+    {
+      "id": 103,
+      "title": "Tote Bag Canvas Premium",
+      "price": 95.00,
+      "category": "handbags",
+      "description": "Grand tote bag en canvas avec finitions en cuir. Idéal pour le bureau.",
+      "image": "/images/sac3.jpg",
+      "rating": { "rate": 4.6, "count": 203 }
+    },
+    {
+      "id": 104,
+      "title": "Clutch Soirée Dorée",
+      "price": 135.00,
+      "category": "handbags",
+      "description": "Pochette de soirée avec fermeture magnétique. Pour vos sorties glamour.",
+      "image": "/images/sac4.jpg",
+      "rating": { "rate": 4.7, "count": 67 }
+    },
+    {
+      "id": 105,
+      "title": "Sac Bandoulière Marron",
+      "price": 159.00,
+      "category": "handbags",
+      "description": "Sac bandoulière en cuir marron vintage avec multiples compartiments.",
+      "image": "/images/sac5.jpg",
+      "rating": { "rate": 4.5, "count": 156 }
+    },
+    {
+      "id": 106,
+      "title": "Backpack Cuir Femme",
+      "price": 210.00,
+      "category": "handbags",
+      "description": "Sac à dos en cuir souple. Alliance de style et de praticité.",
+      "image": "/images/sac6.jpg",
+      "rating": { "rate": 4.8, "count": 98 }
+    },
+    {
+      "id": 107,
+      "title": "Sac Trapèze Camel",
+      "price": 175.00,
+      "category": "handbags",
+      "description": "Sac trapèze en cuir camel avec fermeture zippée et bandoulière amovible.",
+      "image": "/images/sac7.jpg",
+      "rating": { "rate": 4.7, "count": 112 }
+    },
+    {
+      "id": 108,
+      "title": "Pochette Cuir Rouge",
+      "price": 115.00,
+      "category": "handbags",
+      "description": "Pochette en cuir rouge vif. La touche de couleur parfaite pour vos tenues.",
+      "image": "/images/sac8.jpg",
+      "rating": { "rate": 4.6, "count": 78 }
+    },
+    {
+      "id": 109,
+      "title": "Sac Shopper Blanc",
+      "price": 145.00,
+      "category": "handbags",
+      "description": "Grand sac shopper en cuir blanc immaculé. Chic et intemporel.",
+      "image": "/images/sac9.jpg",
+      "rating": { "rate": 4.5, "count": 91 }
+    },
+    {
+      "id": 110,
+      "title": "Sac Baguette Vintage",
+      "price": 198.00,
+      "category": "handbags",
+      "description": "Sac baguette style vintage avec fermoir doré. Tendance et raffiné.",
+      "image": "/images/sac10.jpg",
+      "rating": { "rate": 4.9, "count": 145 }
+    },
+    {
+      "id": 111,
+      "title": "Sac Bucket Cuir Souple",
+      "price": 168.00,
+      "category": "handbags",
+      "description": "Sac bucket en cuir souple avec cordon de serrage. Décontracté et élégant.",
+      "image": "/images/sac11.jpg",
+      "rating": { "rate": 4.7, "count": 103 }
+    },
+    {
+      "id": 112,
+      "title": "Maxi Sac Week-end",
+      "price": 285.00,
+      "category": "handbags",
+      "description": "Grand sac week-end en cuir premium. Pour voyager avec style.",
+      "image": "/images/sac12.jpg",
+      "rating": { "rate": 4.8, "count": 67 }
+    }
+  ]
+}
